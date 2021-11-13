@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Erg_2\Erg_2\bin\Debug\Erg_2.exe.config
+C:\Users\User\source\repos\Erg_2\Erg_2\bin\Debug\Erg_2.exe
+C:\Users\User\source\repos\Erg_2\Erg_2\bin\Debug\Erg_2.pdb
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.Form1.resources
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.Properties.Resources.resources
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.exe
+C:\Users\User\source\repos\Erg_2\Erg_2\obj\Debug\Erg_2.pdb
