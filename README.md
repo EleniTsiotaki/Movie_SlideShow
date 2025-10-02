@@ -29,7 +29,7 @@ The program dynamically loads images from a text file (`photos.txt`), allowing t
 
    ```
    poster1.jpg
-   poster2.png
+   poster2.jpg
    poster3.jpg
    ```
 3. Run the program.
